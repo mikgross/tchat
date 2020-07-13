@@ -1,7 +1,7 @@
 {
   "name": "@mgross/tchat",
   "version": "1.0.0",
-  "description": "A CLI to create chat rooms with other developers accross the world.",
+  "description": "A CLI to create chat rooms with other developers across the world.",
   "main": "src/index.js",
   "bin": {
     "@mgross/tchat": "bin/tchat",
