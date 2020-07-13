@@ -1,7 +1,7 @@
 
 # tchat
 
-A CLI to create, join and stream chat rooms with Terminal across the world. Join and chat with people you know, and do in the most geeky way possible.
+A CLI to create, join and stream chat rooms with Terminal across the world. Join and chat with people you know, and do it in the most geeky way possible.
 
 ## General
 
