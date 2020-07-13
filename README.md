@@ -14,7 +14,11 @@ Please feel free to discuss with me (and the others that will join us) on my [Di
 ```
 # fork/clone this repo then
 npm i
+
+# you might need to do npm link with sudo
 npm link
+
+# start debugging/developing
 tchat
 ```
 
